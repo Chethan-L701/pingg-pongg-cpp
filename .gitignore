@@ -1,0 +1,5 @@
+build
+result
+*.vim
+.direnv
+.envrc
